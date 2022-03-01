@@ -1,2 +1,0 @@
-Mandar el que pesa más, que contiene los tipos de letra.
-El ligero es el que tienen que generar ellos.
